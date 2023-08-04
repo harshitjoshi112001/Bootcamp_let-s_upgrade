@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(203, 128, 241);
+    padding: 20px;
+}
+h1{
+    font-family:cursive;
+    padding: 10px;
+    text-decoration: underline;
+}
+h2{
+    padding: 10px;
+    text-decoration:underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.box{
+
+    font-size: 20px;
+    background-color: cornflowerblue;
+    padding: 10px;
+    border: 2px solid blue;
+    margin: 10px;
+    color: firebrick;
+}
+.section{
+    background-color: rgb(171, 73, 171);
+    font-size: 17px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+.list{
+    margin: 10px;
+    padding: 17px;
+    font-size: 25px;
+}
+li:hover{
+    color:crimson;
+    cursor: pointer;
+    font-size: 30px;
+}
